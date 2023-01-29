@@ -1,2 +1,7 @@
-# FoodlyReact
- Foodly React Challenge
+# A React Task
+
+## Objective
+
+## Requirements
+
+## Gotchas
