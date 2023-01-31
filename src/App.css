@@ -4,23 +4,26 @@
   justify-content: center;
   height: 100vh;
 }
-
-/* .logoHome{
-  position: absolute;
-  left: 39.31%;
-  right: 34.26%;
-  top: 0%;
-  bottom: 47.17%;
-  background: #24201D;}
-  .header{
+.header{
   position: absolute;
   width: 1920px;
   height: 407px;
   left: 0px;
   top: 0px;
   background: #FAC234;
-  }
-  .searchBar{
+}
+
+.logo{  
+  position: absolute;
+  left: 39.31%;
+  right: 34.26%;
+  top: 7.5%;
+  bottom: 47.17%;   
+  z-index: 1;
+}
+
+  
+  /* .searchBar{
   position: absolute;
   width: 940px;
   height: 82px;
@@ -84,4 +87,5 @@
   text-transform: uppercase;
   color: #000000;
   } */
+ 
   

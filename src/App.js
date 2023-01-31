@@ -1,20 +1,23 @@
 import "./App.css";
+import React from 'react'
+import Header from "./components/Header";
+import Products from "./components/Products";
+import Logo from "./components/Logo";
+import { data } from "./components/data";
+
+
 
 function App() {
   return (
-    <div className="App">
-      <section class="hero">
-        <div class="hero-body">
-          <p class="title">A React Task</p>
-          <p class="subtitle">by Boom.dev</p>
-        </div>
-      </section>
-      <div class="container is-fullhd">
-        <div class="notification">
-          Edit the <code>./src</code> folder to add components.
-        </div>
-      </div>
-    </div>
+   <div>
+    <Logo >  </Logo>  
+    <Header />
+   
+   <Products />   
+    
+
+    
+   </div>
   );
 }
 
