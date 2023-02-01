@@ -1,3 +1,6 @@
+# NOT FINISHED!
+YOU CAN CHECK IT HERE ( version 1)
+https://foodly-react.vercel.app
 # A React Task
 
 ## Objective
@@ -9,3 +12,5 @@ It's recommended to add debounce when the typing in search field updates the sta
 It will be a huge plus if the URL updates when the user has selected a specific dish
 
 ## Gotchas
+ # (soon will be finished)
+![image](https://github.com/panayotsky-dev/FoodlyReact/blob/main/image_2023-02-02_013630105.png)
