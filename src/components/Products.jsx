@@ -1,23 +1,23 @@
-import React from 'react'
-import { data } from './data.js';
+// import React from 'react'
+// import { recipeData } from './recipeData.js';
 
-data.forEach(element => {    
-    Products(element)
+// recipeData.forEach(element => {    
+//     Products(element)
     
-});
-function  Products (prop){
-    console.log(prop)
-    return (
-       <>
-    <div className='elements-container'>
-        <div >text</div>
+// });
+// function  Products (prop){
+//     console.log(prop)
+//     return (
+//        <>
+//     <div className='elements-container'>
+//         <div >text</div>
               
     
-    </div>
-    </> 
+//     </div>
+//     </> 
     
-    )
+//     )
   
-}
+// }
 
-export default Products
+// export default Products

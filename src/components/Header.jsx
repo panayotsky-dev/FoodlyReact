@@ -1,10 +1,10 @@
 import React from 'react'
-
+import Logo from "./Logo";
 
 function Header() {
   return (
-    <div class='header'>     
- 
+    <div className='header'>     
+    <Logo />
     </div>
   )
 }

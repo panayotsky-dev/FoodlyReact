@@ -1,12 +1,12 @@
 import React from 'react'
 
 import ourLogo from './../Media/logo.png'
+
 export default function Logo() {
   return (
-    <div className='logoContainer'>
+    <div className='logo-container'>
         <img 
-        classname="logo"
-        class="logo"
+        className="logo" 
          src={ourLogo} 
          alt='logo1'         
          >
