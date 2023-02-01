@@ -15,7 +15,7 @@ function App() {
    
    {/* <Products />    */}
     
-   <div className="">
+   <div className="cards-holder">
       <Search details={recipeData}/>
     </div>
     

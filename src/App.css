@@ -201,3 +201,6 @@ border-radius: 15px;
   text-align: center;
   text-transform: uppercase;
 } 
+
+.card-holder {
+  margin: 0 auto;}
